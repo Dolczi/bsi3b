@@ -1,0 +1,17 @@
+.row
+{
+	display: flex;
+	flex-direction: row;
+	text-align: left;
+}
+div.row
+{
+	width: 100%;
+}
+div
+{
+	display: flex;
+	flex-direction: column;
+	width: 25%;
+	justify-content: center;
+}
